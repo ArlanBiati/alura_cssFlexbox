@@ -22,7 +22,7 @@
 	Aprofundamento Css-FlexBox
 </h4>
 <h4 align="center"> 
-	Organizando os elementos da Home page sómente utilizando FlexBox
+	Organizando os elementos da Home page somente utilizando FlexBox
 </h4>
 
 <p>&nbsp;&nbsp;</p>
@@ -56,7 +56,7 @@
 
 ## 💻 Projeto
 
-Projeto desenvolvido utilizando sómente HTML5 e CSS3 + FlexBox
+Projeto desenvolvido utilizando somente HTML5 e CSS3 + FlexBox
 
 A intenção deste projeto foi aperfeicoar o uso do FlexBox nos layouts Frontend.
 
@@ -68,8 +68,8 @@ A intenção deste projeto foi aperfeicoar o uso do FlexBox nos layouts Frontend
 
 O projeto foi desenvolvido usando as seguintes tecnologias
 
-- [HTML](https://nodejs.org/en/) 
-- [CSS3-FlexBox](https://expo.io/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) 
+- [CSS3-FlexBox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout)
 
 ---
 
